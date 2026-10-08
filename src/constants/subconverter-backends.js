@@ -1,8 +1,8 @@
 export const SUBCONVERTER_BACKENDS = [
     {
-        value: 'subapi.cmliussss.net',
+        value: 'subapi.thedalao.com',
         labelKey: 'settings.subconverterBackendCmliussss',
-        description: 'subapi.cmliussss.net',
+        description: 'subapi.thedalao.com',
     },
     {
         value: 'api.v1.mk',
